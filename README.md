@@ -61,7 +61,7 @@ Machine Learning Engineer, Artificial Engineer, Data Scientist 🤖
 </p>
 
 <p>
-  📫 Contact: <strong>nishant.ns.business@gmail.com</strong>
+  📫 Contact: <strong>harshrameshnerkar@gmail.com</strong>
 </p>
 
 ---
