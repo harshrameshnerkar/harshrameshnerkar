@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
 <h3 align="center">
-Machine Learning Engineer, Artificial Engineer, Data Scientist 🤖
+Machine Learning Engineer, Artificial Intelligence Engineer, Data Scientist 🤖
 </h3>
 
 <p align="center">
