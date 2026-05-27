@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Naboraj Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
 <h3 align="center">
-Student Developer • AI & Automation Builder • Content Creator 🤖
+Machine Learning Engineer, Artificial Engineer, Data Scientist 🤖
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naborajs&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=harshrameshnerkar&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 <div align="center">
@@ -40,7 +40,7 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 ## 🧠 About Me
 
 <p>
-  I’m <strong>Naboraj Sarkar</strong> — a student developer and builder focused on
+  I’m <strong>Harsh Nerkar</strong> — a student developer and builder focused on
   <strong>AI, automation, and real-world systems</strong>.
   I learn by building, experimenting, and improving things step by step.
 </p>
