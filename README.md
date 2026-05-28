@@ -324,7 +324,6 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 ✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
 </p>
 -->
-
 <h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
 <h3 align="center">
@@ -391,7 +390,7 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" alt="OpenCV"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" alt="Docker"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
@@ -431,23 +430,29 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 <p align="center">
   <a href="mailto:harshrameshnerkar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="45" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   
   <a href="https://linkedin.com/in/harshrameshnerkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   
   <a href="https://github.com/harshrameshnerkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="45" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <a href="https://wa.me/917522946205?text=Hi%20Harsh%2C%20I%20found%20you%20via%20GitHub." target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
 </p>
 
 ---
