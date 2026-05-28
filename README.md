@@ -413,6 +413,14 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshrameshnerkar/harshrameshnerkar/output/github-contribution-grid-snake.svg" alt="Contribution Activity" />
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -465,4 +473,6 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 ✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
 </p>
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
