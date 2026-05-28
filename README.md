@@ -187,7 +187,12 @@ Machine Learning Engineer, Artificial Intelligence Engineer, Data Scientist 🤖
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
--->
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
 <h3 align="center">
@@ -318,5 +323,135 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 <p align="center">
 ✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
 </p>
+-->
 
+<h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
+<h3 align="center">
+Machine Learning Engineer | AI Specialist | Computer Vision Developer 🤖
+</h3>
+
+<p align="center">
+🚀 Building intelligent systems, RAG pipelines, and ML applications from India 🇮🇳
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshrameshnerkar&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning.%20Building.%20Shipping...;AI%20Systems%20%7C%20Computer%20Vision%20%7C%20LLMs" alt="Typing" />
+</p>
+
+## 🧠 About Me
+
+I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applications, computer vision systems, and production ML pipelines**.
+
+- 🤖 Building **multi-agent AI systems** with Llama 3 & RAG pipelines
+- 👁️ Working on **real-time computer vision** (gesture recognition, object detection)
+- 🧠 Exploring **LLMs, prompt engineering, and AI automation**
+- 💻 Proficient in **Python, TensorFlow, OpenCV, and cloud deployment**
+- 📊 Data science enthusiast — **EDA, ML pipelines, visualization**
+
+**📫 Contact:** harshrameshnerkar@gmail.com | **📱** +91 7522946205
+
+---
+
+## 🎯 Currently Building & Learning
+
+| 🔨 Building | 📚 Learning |
+|---|---|
+| 🧠 Mental Health AI Application (Llama 3 + RAG) | How AI agents **truly work** under the hood |
+| 🤟 ISL Translator (Real-time gesture recognition) | **LLM optimization** & efficient inference |
+| 📸 Image Caption Generator (CNN + LSTM) | **System design** for ML at scale |
+| 🚀 Production ML pipelines & deployment | **Security-first mindset** in AI systems |
+
+---
+
+## 💼 Experience
+
+### **Machine Learning Engineer Intern** @ Kohliai.ml *(Dec 2025 – Present)*
+- Architected **multi-agent AI system** (Orchestrator, Coach, Safety, Memory)
+- Implemented **RAG pipeline** with Neon PostgreSQL for hallucination-resistant responses
+- Research-backed AI platform for mental health support
+
+### **AI/ML Intern** @ TARS Technologies *(May 2025 – Jul 2025)*
+- Built **Indian Sign Language Translator** (CNN, RNN, LSTM, OpenCV)
+- Developed **YOLOv8 Safety Helmet Detection** system for construction sites
+- Created **gesture-driven Virtual Keyboard** and **WhatsApp Reminder Bot**
+
+**📚 Education:** B.Tech CSE, SB Jain Institute of Technology, Nagpur *(CGPA: 8.23)*
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
+</p>
+
+**Languages:** Python • SQL • C • JavaScript  
+**AI/ML:** TensorFlow • Keras • Scikit-learn • Pandas • NumPy  
+**Vision:** OpenCV • MediaPipe • YOLOv8  
+**Tools:** Docker • Streamlit • PostgreSQL • Git
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Mental Health App](https://github.com/harshrameshnerkar) | AI-powered wellbeing platform with multi-agent system | Llama 3, RAG, PostgreSQL |
+| [ISL Translator](https://github.com/harshrameshnerkar) | Real-time Indian Sign Language gesture recognition | Python, OpenCV, LSTM |
+| [Image Caption Generator](https://github.com/harshrameshnerkar) | Advanced CNN-LSTM image-to-text system | TensorFlow, NLP |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshrameshnerkar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=harshrameshnerkar&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshrameshnerkar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:harshrameshnerkar@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="45" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/harshrameshnerkar" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://wa.me/917522946205?text=Hi%20Harsh%2C%20I%20found%20you%20via%20GitHub." target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="45" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
+</p>
