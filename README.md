@@ -371,7 +371,7 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 ## 💼 Experience
 
-### **Machine Learning Engineer Intern** @ Kohliai.ml *(Dec 2025 – Present)*
+### **Machine Learning Engineer Intern** @ Kohliai.ml *(Jan 2026 – Apr 2026)*
 - Architected **multi-agent AI system** (Orchestrator, Coach, Safety, Memory)
 - Implemented **RAG pipeline** with Neon PostgreSQL for hallucination-resistant responses
 - Research-backed AI platform for mental health support
