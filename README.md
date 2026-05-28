@@ -455,8 +455,4 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 ✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
 </p>
 
----
 
-<p align="center">
-✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
-</p>
