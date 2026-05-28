@@ -371,7 +371,7 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 ## 💼 Experience
 
-### **Machine Learning Engineer Intern** @ Kohliai.ml *(Jan 2026 – Apr 2026)*
+### **Machine Learning Engineer Intern** @ Kohliai.ml *(Dec 2025 – Present)*
 - Architected **multi-agent AI system** (Orchestrator, Coach, Safety, Memory)
 - Implemented **RAG pipeline** with Neon PostgreSQL for hallucination-resistant responses
 - Research-backed AI platform for mental health support
@@ -413,15 +413,25 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshrameshnerkar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=harshrameshnerkar&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img src="https://img.shields.io/github/followers/harshrameshnerkar?style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img src="https://img.shields.io/github/stars/harshrameshnerkar?style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshrameshnerkar&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <a href="https://github.com/harshrameshnerkar">
+    <img alt="Harsh's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harshrameshnerkar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=37BCF6&icon_color=37BCF6" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/harshrameshnerkar">
+    <img alt="Harsh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harshrameshnerkar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=37BCF6&text_color=37BCF6" height="192px" width="49.5%"/>
+  </a>
 </p>
 
 ---
