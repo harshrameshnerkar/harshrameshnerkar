@@ -324,9 +324,7 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 ✨ <strong>"Not trying to look advanced — trying to become capable."</strong> ✨
 </p>
 -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Line" width="100%" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
@@ -342,7 +340,9 @@ Machine Learning Engineer | AI Specialist | Computer Vision Developer 🤖
   <img src="https://komarev.com/ghpvc/?username=harshrameshnerkar&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Line" width="100%" />
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Learning.%20Building.%20Shipping...;AI%20Systems%20%7C%20Computer%20Vision%20%7C%20LLMs" alt="Typing" />
