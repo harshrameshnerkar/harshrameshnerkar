@@ -329,7 +329,7 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 <h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
 <h3 align="center">
-Machine Learning Engineer | AI Specialist | Computer Vision Developer 🤖
+Aspiring AI/ML Engineer | Machine Learning, Gen AI, LLMs, RAG Pipelines, Data Science, NLP 🤖
 </h3>
 
 <p align="center">
