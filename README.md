@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harsh Nerkar</h1>
 
 <h3 align="center">
-Aspiring AI/ML Engineering | Machine Learning, Gen AI, Data Science 🤖
+Aspiring AI/ML Engineering | Machine Learning, Gen AI, Data Science, Computer Vision 🤖
 </h3>
 
 <p align="center">
