@@ -56,6 +56,7 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 | 🔨 Building | 📚 Learning |
 |---|---|
+| 🤖 [Agentic AI Systems](https://github.com/harshrameshnerkar/Agentic-AI) (20-Day Production SRE Engineering) | Autonomous multi-agent swarms, RAG, circuit breakers, HITL safety |
 | 🧠 Mental Health AI Application (Llama 3 + RAG) | How AI agents **truly work** under the hood |
 | 🤟 ISL Translator (Real-time gesture recognition) | **LLM optimization** & efficient inference |
 | 📸 Image Caption Generator (CNN + LSTM) | **System design** for ML at scale |
@@ -101,9 +102,10 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 | Project | Description | Stack |
 |---|---|---|
-| [Mental Health App](https://github.com/harshrameshnerkar) | AI-powered wellbeing platform with multi-agent system | Llama 3, RAG, PostgreSQL |
-| [ISL Translator](https://github.com/harshrameshnerkar) | Real-time Indian Sign Language gesture recognition | Python, OpenCV, LSTM |
-| [Image Caption Generator](https://github.com/harshrameshnerkar) | Advanced CNN-LSTM image-to-text system | TensorFlow, NLP |
+| [🤖 Agentic AI Systems](https://github.com/harshrameshnerkar/Agentic-AI) | Production 20-Day Autonomous SRE & Multi-Agent Architecture | Python, asyncio, Hybrid RAG, Circuit Breakers, HITL |
+| [🧠 Mental Health Companion](https://github.com/harshrameshnerkar/Mental-Health-Wellbeing-Chatbot) | AI-powered wellbeing platform with multi-agent orchestration | Llama 3, RAG, Neon PostgreSQL, Streamlit |
+| [🤟 ISL Translator](https://github.com/harshrameshnerkar/ISL-Translator) | Real-time Indian Sign Language & gesture AI translator | PyTorch CNN, OpenCV, bilingual TTS |
+| [📸 Image Caption Generator](https://github.com/harshrameshnerkar/Image-Caption-Generator) | Vision Transformer (ViT) & CNN-LSTM captioning engine | PyTorch, TensorFlow, Flask |
 
 ---
 
