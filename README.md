@@ -66,6 +66,9 @@ I'm **Harsh Nerkar** — a Final-year CS student building **AI-powered applicati
 
 ## 💼 Experience
 
+### **Agentic AI Intern** @ HSM Edifice Construction Services *(Sep 2026 – Present)*
+- Study about Various Gen AI and Agentic AI technologies and Build various Task earlier.
+
 ### **Machine Learning Engineer Intern** @ Kohliai.ml *(Jan 2026 – Apr 2026)*
 - Architected **multi-agent AI system** (Orchestrator, Coach, Safety, Memory)
 - Implemented **RAG pipeline** with Neon PostgreSQL for hallucination-resistant responses
