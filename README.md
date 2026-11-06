@@ -127,20 +127,29 @@ I am an **AI/ML & Autonomous Systems Engineer** specializing in **production Mul
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshrameshnerkar">
-    <img alt="Harsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshrameshnerkar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="180px"/>
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img alt="Harsh's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshrameshnerkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="175px"/>
   </a>
-  <a href="https://github.com/harshrameshnerkar">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrameshnerkar&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="180px"/>
+  &nbsp;
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshrameshnerkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="175px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=harshrameshnerkar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" height="175px"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📅 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshrameshnerkar/harshrameshnerkar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <a href="https://github.com/harshrameshnerkar" target="_blank">
+    <img src="https://ghchart.rshah.org/38bdf8/harshrameshnerkar" alt="Harsh's GitHub Contribution Calendar" width="100%" />
+  </a>
 </p>
 
 ---
