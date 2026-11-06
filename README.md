@@ -34,7 +34,7 @@ AI/ML Engineer • Autonomous Multi-Agent Systems • Computer Vision • Genera
 
 ## 🧠 About Me
 
-I am an **AI/ML & Autonomous Systems Engineer** specializing in **production Multi-Agent architectures, Vision-Language Models (VLMs), and enterprise RAG pipelines**. I focus on designing intelligent systems that bridge real-world business ambiguity with deterministic reliability through multi-phase reasoning loops (*Plan $\rightarrow$ Execute $\rightarrow$ Reflect $\rightarrow$ Compile*).
+I am an **AI/ML & Autonomous Systems Engineer** specializing in **production Multi-Agent architectures, Vision-Language Models (VLMs), and enterprise RAG pipelines**. I focus on designing intelligent systems that bridge real-world business ambiguity with deterministic reliability through multi-phase reasoning loops (*Plan → Execute → Reflect → Compile*).
 
 * 🤖 **Autonomous Multi-Agent Systems:** Designing agent swarms, dynamic TODO task planners, self-reflection quality gates, and circuit-breaker safety loops.
 * 👁️ **Computer Vision & Multimodal AI:** Building bidirectional Text-to-Image diffusion studios, real-time sign language translators, and VLM captioning engines (ViT + GPT-2, YOLOv8).
