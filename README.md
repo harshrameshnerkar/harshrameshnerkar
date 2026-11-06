@@ -5,8 +5,8 @@ AI/ML Engineer • Autonomous Multi-Agent Systems • Computer Vision • Genera
 </h3>
 
 <p align="center">
-  <a href="https://harshnerkar.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-harshnerkar.vercel.app-8b5cf6?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://harshrameshnerkar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-harshrameshnerkar.vercel.app-8b5cf6?style=for-the-badge" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/harshrameshnerkar" target="_blank">
@@ -42,7 +42,7 @@ I am an **AI/ML & Autonomous Systems Engineer** specializing in **production Mul
 * 🚀 **Full-Stack AI Engineering:** Production-ready backend APIs with FastAPI, Flask, Docker, and PostgreSQL, accompanied by responsive modern interfaces.
 
 📍 **Location:** Nagpur, Maharashtra, India  
-💼 **Portfolio:** [harshnerkar.vercel.app](https://harshnerkar.vercel.app)  
+💼 **Portfolio:** [harshrameshnerkar.vercel.app](https://harshrameshnerkar.vercel.app)  
 📫 **Direct Contact:** [harshrameshnerkar@gmail.com](mailto:harshrameshnerkar@gmail.com) • +91 7522946205
 
 ---
@@ -157,8 +157,8 @@ I am an **AI/ML & Autonomous Systems Engineer** specializing in **production Mul
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://harshnerkar.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-harshnerkar.vercel.app-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://harshrameshnerkar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-harshrameshnerkar.vercel.app-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/harshrameshnerkar" target="_blank">
